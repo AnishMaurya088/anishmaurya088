@@ -1,8 +1,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Everyone+👋,)](https://git.io/typing-svg)<br/>
 <br/>
-<img src="https://github.com/anishmaurya088/info07/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png?raw=true"/>
-<img src="https://media1.tenor.com/m/eQurkgjhvYsAAAAd/akatsuki-anime.gif" align="right"  height="250px" width="250px "/>
+<img src="https://github.com/anishmaurya088/img_sources/blob/main/Black%20Technology%20LinkedIn%20Banner.png?raw=true"/>
+<img src="https://media1.tenor.com/m/BDiI_GSaoGMAAAAC/tom-and-jerry-verlehen.gif" align="right"  height="250px" width="250px "/>
 
 <br>
 <br>
